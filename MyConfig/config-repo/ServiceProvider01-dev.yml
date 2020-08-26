@@ -25,3 +25,4 @@ eureka:
   #服务提供者地址，注册到Eureka服务器
     service-url:
       defaultZone: http://localhost:10086/eureka
+ProviderVersion: 1.0.0.1V
